@@ -9,4 +9,4 @@ Bu proje, [Proje Adı] için oluşturulmuş bir yazılım geliştirme çalışma
 ## Kurulum
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/GuysMee55/final-proje.git
+   git clone [https://github.com/GuysMee55/final-proje.git](https://github.com/GuysMee55/GuysMee55.git)
